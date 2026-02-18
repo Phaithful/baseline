@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helper so overlay can receive clicks while host is pointerEvents:none */
+.bh-pointer {
+  pointer-events: auto;
+}
