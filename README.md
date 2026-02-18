@@ -53,7 +53,7 @@ It’s designed to help you collect signals (e.g., search links, popularity data
    git clone https://github.com/Phaithful/baseline.git
    cd baseline-helper
 
-   ```npm run build
+   npm run build
 
 2. Open Chrome Extensions page:
 
